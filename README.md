@@ -6,7 +6,7 @@ A web based blog application that allows users to create, read and delete blogs.
 2. A new blog requires both Title and Description. "Cancel" button takes user to the homepage:
 ![Screenshot (26)](https://github.com/JKamith/Blog-Application/assets/127281236/ff1d8d75-f922-4743-9968-7116dea47909)
 
-3. Snippet after a new blog is created:
+3. Snippet after a new blog is created and saved:
 ![Screenshot (28)](https://github.com/JKamith/Blog-Application/assets/127281236/0ea44037-905a-41a9-bcd7-eff334b6688f)
 
 4. "Read more" gives the full description of the blog and "Delete" deletes the selected blog:
