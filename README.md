@@ -1,5 +1,5 @@
 # Blog Application
-A web based blog application that allows users to create, read and delete blogs. Used Express, Node and EJS
+A web based blog application that allows users to create, read and delete blogs. Used Express, Node , Mongodb and EJS
 1. "New" button allows the user to create a blog:
 ![Screenshot (24)](https://github.com/JKamith/Blog-Application/assets/127281236/91582df7-d55f-40a2-8fe9-f09ec234d6da)
 
